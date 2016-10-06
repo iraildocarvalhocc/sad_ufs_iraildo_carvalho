@@ -1,1 +1,4 @@
-vejasdasd
+CódigoDoFornecedor;NomeDaEmpresa;NomeDoContato;CargoDoContato;Endereço;Cidade;Região;CEP;País;Telefone;Fax;Código;Nome;Rua / Avenida / Praça;Número;Complemento;Bairro;Cidade_1;CEP_1;Estado;Código Calculado;0.0;Imagem;CODIGO CLIENTE;CODIGO FORNECEDOR;PRODUTO;VALOR
+ 2;New Orleans Cajun Delights;Shelley Burke;Administrador de Pedidos;P.O. Box 78934;New Orleans;LA; 70111,0;EUA;(100) 555-4822;; 1;Iraildo;;;;;;;;;;; 1; 2;ASD; 254
+ 4;Tokyo Traders;Yoshi Nagase;Gerente de Marketing;9-8 Sekimai
+Musashino-shi;Tokyo;;100;Japão;(03) 3555-5011;; 2;Daniel;;;;;;;;;;; 2; 4;GFG; 4564
